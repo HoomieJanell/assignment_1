@@ -1,0 +1,35 @@
+.footer{
+    border-top: 8px solid #4aaaa5;
+    margin-top: 0px;
+    background-color: #666666;
+    text-align: center;
+    color: #cccccc;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.header{
+    background-color #ffffff;
+    border-bottom: 8px solid #cccccc;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+
+
+
+
+}
+
+.container{
+    background-color: #4aaaa5;
+    margin-top: 16px;
+    
+}
+    
+
+
+
+
+

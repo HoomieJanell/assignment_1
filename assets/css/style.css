@@ -1,6 +1,7 @@
 .footer{
     border-top: 8px solid #4aaaa5;
     margin-top: 0px;
+    margin-bottom: 0px;
     background-color: #666666;
     text-align: center;
     color: #cccccc;
@@ -8,16 +9,20 @@
     left: 0;
     bottom: 0;
     width: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 8px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+
+
+
 }
 
 .header{
-    background-color #ffffff;
+    background-color: #ffffff;
     border-bottom: 8px solid #cccccc;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-
-
+    margin: 0px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
 
 
 }
@@ -25,11 +30,61 @@
 .container{
     background-color: #4aaaa5;
     margin-top: 16px;
+
     
 }
+
+.img1, .img2, .img3, .img4, .img5 {
+    width: 300px;
+    height: 300px;
+}
+
+.profilepic {
+    width: 400px;
+
+}
+
+.bio {
+    float: left;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+    float: right;
+
     
+}
+
+.nav {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.maincontent {
+    background: color; #ffffff;
+    length: 960px;
+
+}
+
+.myname {
+    background-color: #4aaaa5;
+
+}
+
+.container {
+    position: relative;
+
+}
+
+.textblock1 {
+    position: absolute;
+    bottom: 20px;
+    right: 20 px;
+    background-color: #4aaaa5;
+    color: pink;
+    padding-left: 20px;
+    padding-right: 20px;
 
 
+}
 
 
 

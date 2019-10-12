@@ -122,5 +122,8 @@ body {
     color: #4aaaa5
 }
 
-
+a {
+    color: #777777;
+    text-decoration: none;
+}
 
